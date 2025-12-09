@@ -99,3 +99,52 @@ Based on the synthetic dataset:
 These results reflect realistic pricing dynamics found in differentiated markets.
 
 ---
+---
+
+## 🖼 Visualization Outputs  
+
+### **Elasticity by Segment**
+![Elasticity by Segment](Outputs_R/elasticity_by_segment.png)
+
+### **Price–Demand Scatter**
+![Price–Demand Scatter](Outputs_R/price_demand_scatter.png)
+
+### **Elasticity Concept (Illustrative)**
+![Elasticity Concept](Outputs_R/elasticity_concept.png)
+
+---
+
+## 🛠️ Technical Stack  
+- **R** (tidyverse, ggplot2, broom, lubridate)  
+- **Synthetic data modeling** for confidentiality  
+- **Log–log regression** for elasticity estimation  
+- **Reproducible script workflow**  
+
+---
+
+## 📁 Repository Structure  
+
+---
+
+## 🇲🇽 Resumen en Español / Visualizaciones***********
+
+Este análisis se desarrolló para entender la sensibilidad al precio en distintos segmentos comerciales y evaluar si los ajustes de precio realizados estaban alineados con el comportamiento real de la demanda. Aunque los datos reales son confidenciales, se creó un modelo sintético que reproduce patrones verosímiles, permitiendo analizar elasticidades, volumen, precios y variaciones entre segmentos sin comprometer información sensible.
+
+---
+
+## 📈 Elasticidad por Segmento (Valor Absoluto)
+![Elasticidad por Segmento](Outputs_R/elasticity_by_segment.png)
+
+---
+
+## 📉 Relación Precio–Demanda
+![Relación Precio–Demanda](Outputs_R/price_demand_scatter.png)
+
+---
+
+## 📘 Concepto de Elasticidad (Ilustrativo)
+![Concepto de Elasticidad](Outputs_R/elasticity_concept.png)
+
+---
+
+
