@@ -128,7 +128,19 @@ These results reflect realistic pricing dynamics found in differentiated markets
 
 ## 🇲🇽 Resumen en Español / Visualizaciones***********
 
-Este análisis se desarrolló para entender la sensibilidad al precio en distintos segmentos comerciales y evaluar si los ajustes de precio realizados estaban alineados con el comportamiento real de la demanda. Aunque los datos reales son confidenciales, se creó un modelo sintético que reproduce patrones verosímiles, permitiendo analizar elasticidades, volumen, precios y variaciones entre segmentos sin comprometer información sensible.
+Este análisis se desarrolló para evaluar si las decisiones de precio estaban alineadas con el comportamiento real de la demanda en distintos segmentos comerciales.
+
+Debido a la sensibilidad del dataset original, se generaron datos sintéticos que imitan patrones reales de volumen, precio y margen, permitiendo reproducir el flujo analítico sin comprometer información confidencial.
+
+El modelo de elasticidad precio–demanda ayuda a responder:
+
+¿Qué tan sensible es cada segmento a cambios de precio?
+
+¿Dónde existe poder de precio y dónde se debe actuar con cautela?
+
+¿Cómo afecta un ajuste de precio al volumen y a la utilidad?
+
+Este enfoque permite validar estrategias de pricing basadas en evidencia en lugar de supuestos.
 
 ---
 
